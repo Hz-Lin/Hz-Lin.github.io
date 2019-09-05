@@ -1,19 +1,14 @@
-# Welcome to MkDocs
+# Welcome to Lin's note
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Here are the notes I made while learning web development.
 
-## Commands
+## Content
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* `HTML`
+* `CSS`
+* `JavaScript`
+* `Vue.js` - framework.
 
-## Project layout
+## My Project
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-* This is a test
+    I am currently busy with making a ui for Catan Map generator

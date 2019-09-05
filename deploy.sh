@@ -1,2 +1,2 @@
 #! /bin/bash
-mkdocs gh-deploy -b master
+mkdocs build && mkdocs gh-deploy -b master
