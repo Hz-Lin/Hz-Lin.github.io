@@ -1,14 +1,37 @@
-site_name: My Docs
+# Project information
+site_name: Lin's Notes
+site_description: 'Study notes from Lin'
+site_author: 'Hz Lin'
+site_url: 'https://hz-lin.github.io/'
+
+# Pages
 pages:
   - Home: index.md
   - About: about.md
 
+# Copyright
+copyright: 'Copyright &copy; 2019 - 2020 Hz Lin'
+
+  # Configuration
 theme:
+  name: 'material'
+  language: 'en'
   palette:
     primary: 'blue grey'
     accent: 'deep orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
   logo:
     icon: 'queue_music'
   feature:
     tabs: true
-  name: 'material'
+
+# Customization
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    - type: 'github'
+      link: 'https://github.com/Hz-Lin'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/huizhilin'
