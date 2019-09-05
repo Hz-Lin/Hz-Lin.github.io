@@ -1,1 +1,15 @@
 site_name: My Docs
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  palette:
+    primary: 'blue grey'
+    accent: 'deep orange'
+  logo:
+    icon: 'queue_music'
+  feature:
+    tabs: true
+  name: 'material'
