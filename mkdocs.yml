@@ -1,6 +1,5 @@
 site_name: My Docs
-
-nav:
+pages:
   - Home: index.md
   - About: about.md
 
