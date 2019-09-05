@@ -7,7 +7,7 @@ site_url: 'https://hz-lin.github.io/'
 # Pages
 pages:
   - Home: index.md
-  - About: about.md
+  - HTML: html.md
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Hz Lin'
